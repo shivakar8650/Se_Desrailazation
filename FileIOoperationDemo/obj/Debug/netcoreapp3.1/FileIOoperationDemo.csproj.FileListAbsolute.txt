@@ -1,0 +1,15 @@
+C:\Users\prabhakar\source\repos\FileIOoperationDemo\FileIOoperationDemo\bin\Debug\netcoreapp3.1\FileIOoperationDemo.exe
+C:\Users\prabhakar\source\repos\FileIOoperationDemo\FileIOoperationDemo\bin\Debug\netcoreapp3.1\FileIOoperationDemo.deps.json
+C:\Users\prabhakar\source\repos\FileIOoperationDemo\FileIOoperationDemo\bin\Debug\netcoreapp3.1\FileIOoperationDemo.runtimeconfig.json
+C:\Users\prabhakar\source\repos\FileIOoperationDemo\FileIOoperationDemo\bin\Debug\netcoreapp3.1\FileIOoperationDemo.runtimeconfig.dev.json
+C:\Users\prabhakar\source\repos\FileIOoperationDemo\FileIOoperationDemo\bin\Debug\netcoreapp3.1\FileIOoperationDemo.dll
+C:\Users\prabhakar\source\repos\FileIOoperationDemo\FileIOoperationDemo\bin\Debug\netcoreapp3.1\FileIOoperationDemo.pdb
+C:\Users\prabhakar\source\repos\FileIOoperationDemo\FileIOoperationDemo\obj\Debug\netcoreapp3.1\FileIOoperationDemo.csproj.AssemblyReference.cache
+C:\Users\prabhakar\source\repos\FileIOoperationDemo\FileIOoperationDemo\obj\Debug\netcoreapp3.1\FileIOoperationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prabhakar\source\repos\FileIOoperationDemo\FileIOoperationDemo\obj\Debug\netcoreapp3.1\FileIOoperationDemo.AssemblyInfoInputs.cache
+C:\Users\prabhakar\source\repos\FileIOoperationDemo\FileIOoperationDemo\obj\Debug\netcoreapp3.1\FileIOoperationDemo.AssemblyInfo.cs
+C:\Users\prabhakar\source\repos\FileIOoperationDemo\FileIOoperationDemo\obj\Debug\netcoreapp3.1\FileIOoperationDemo.csproj.CoreCompileInputs.cache
+C:\Users\prabhakar\source\repos\FileIOoperationDemo\FileIOoperationDemo\obj\Debug\netcoreapp3.1\FileIOoperationDemo.dll
+C:\Users\prabhakar\source\repos\FileIOoperationDemo\FileIOoperationDemo\obj\Debug\netcoreapp3.1\FileIOoperationDemo.pdb
+C:\Users\prabhakar\source\repos\FileIOoperationDemo\FileIOoperationDemo\obj\Debug\netcoreapp3.1\FileIOoperationDemo.genruntimeconfig.cache
+C:\Users\prabhakar\source\repos\FileIOoperationDemo\FileIOoperationDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
